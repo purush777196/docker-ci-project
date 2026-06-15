@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "purush777196/myapp"
+        IMAGE_NAME = "yarlagaddapurush/docker-ci-project"
     }
 
     stages {
